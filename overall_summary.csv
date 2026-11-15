@@ -1,0 +1,2 @@
+rows,corners,vectors_per_corner_min,vectors_per_corner_max,MAPE_pct,mean_accuracy_pct,median_abs_pct_error,P95_abs_pct_error,max_abs_pct_error,mean_signed_pct_error,RMSE_A,MAE_A,SPICE_mean_A,ML_mean_A
+25600,200,128,128,0.8327320967956712,99.16726790320433,0.6971072017035354,2.1098883960741155,4.326681783572834,-0.07075803669477908,1.3397843526773557e-07,8.52453868056369e-08,1.0067009400083673e-05,1.0030730559720655e-05
