@@ -176,13 +176,6 @@ These 16 validation results use the common original dataset and split; later neu
 
 ![Required transistor physical trend plots](checks/physical_trends.png)
 
-![nmos_on held-out test parity](final_results/nmos_on_parity.png)
-
-![nmos_off held-out test parity](final_results/nmos_off_parity.png)
-
-![pmos_on held-out test parity](final_results/pmos_on_parity.png)
-
-![pmos_off held-out test parity](final_results/pmos_off_parity.png)
 
 ![All 3600 original gate predictions against SPICE](final_results/gate_parity.png)
 
